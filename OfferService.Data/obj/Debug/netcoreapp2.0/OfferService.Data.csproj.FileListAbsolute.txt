@@ -1,0 +1,11 @@
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\bin\Debug\netcoreapp2.0\OfferService.Data.deps.json
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\bin\Debug\netcoreapp2.0\OfferService.Data.dll
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\obj\Debug\netcoreapp2.0\OfferService.Data.csprojResolveAssemblyReference.cache
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\obj\Debug\netcoreapp2.0\OfferService.Data.csproj.CoreCompileInputs.cache
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\obj\Debug\netcoreapp2.0\OfferService.Data.AssemblyInfoInputs.cache
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\obj\Debug\netcoreapp2.0\OfferService.Data.AssemblyInfo.cs
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\bin\Debug\netcoreapp2.0\OfferService.Data.runtimeconfig.json
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\bin\Debug\netcoreapp2.0\OfferService.Data.runtimeconfig.dev.json
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\bin\Debug\netcoreapp2.0\OfferService.Data.pdb
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\obj\Debug\netcoreapp2.0\OfferService.Data.dll
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService.Data\obj\Debug\netcoreapp2.0\OfferService.Data.pdb

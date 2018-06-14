@@ -1,0 +1,14 @@
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\bin\Debug\netcoreapp2.0\OfferService.deps.json
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\bin\Debug\netcoreapp2.0\OfferService.runtimeconfig.json
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\bin\Debug\netcoreapp2.0\OfferService.runtimeconfig.dev.json
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\bin\Debug\netcoreapp2.0\OfferService.dll
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\bin\Debug\netcoreapp2.0\OfferService.pdb
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\obj\Debug\netcoreapp2.0\OfferService.csprojResolveAssemblyReference.cache
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\obj\Debug\netcoreapp2.0\OfferService.csproj.CoreCompileInputs.cache
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\obj\Debug\netcoreapp2.0\OfferService.AssemblyInfoInputs.cache
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\obj\Debug\netcoreapp2.0\OfferService.AssemblyInfo.cs
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\obj\Debug\netcoreapp2.0\OfferService.dll
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\obj\Debug\netcoreapp2.0\OfferService.pdb
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\bin\Debug\netcoreapp2.0\OfferService.Data.dll
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\bin\Debug\netcoreapp2.0\OfferService.Data.pdb
+C:\Users\chcorp\Documents\proyecto trabajo\OfferService\OfferService\OfferService\obj\Debug\netcoreapp2.0\OfferService.csproj.CopyComplete
